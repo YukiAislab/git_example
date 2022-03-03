@@ -1,4 +1,3 @@
 hello
 Matsushita Yuki
 hello
-function
